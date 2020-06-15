@@ -1,0 +1,5 @@
+Big O notation is the upper bound of the algorith which means the worst case to complete the process
+
+Omega is the lower bound of the algorithm which always comes a best case to complete a process
+
+Theta is the middle line og (Big O and Omega) which gives the correct time to complete a process
